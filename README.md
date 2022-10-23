@@ -1,0 +1,2 @@
+# MVC_sample_InquiryForm-surveyForm
+　お問い合わせフォームとアンケートフォームのサンプルになります。
