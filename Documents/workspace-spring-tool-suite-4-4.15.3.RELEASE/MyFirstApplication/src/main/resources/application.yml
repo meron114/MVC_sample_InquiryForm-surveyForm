@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:test #データをメモリ上に保存する。Springを起動するたびにデータは初期化される
+    driverClassName: org.h2.Driver
+    username: sa
+    password:
+  h2.console.enabled: true
+  #trueでブラウザからh2データベースのデータを確認できるようになる
